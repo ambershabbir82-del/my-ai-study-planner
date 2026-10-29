@@ -2,7 +2,7 @@
 MY AI STUDY PLANNER
 =============================================
 Student name: amber
-AI learning goal: to gain skill
+AI learning goal:To learn Python programming, understand the fundamentals of Artificial Intelligence and Machine Learning, and build practical AI projects.
 Study days per week: 1
 Daily study hours: 2
 Total weekly study hours: 2
