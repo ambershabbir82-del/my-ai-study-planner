@@ -1,0 +1,20 @@
+=============================================
+MY AI STUDY PLANNER
+=============================================
+Student name: amber
+AI learning goal: to gain skill
+Study days per week: 1
+Daily study hours: 2
+Total weekly study hours: 2
+
+YOUR PERSONALIZED WEEKLY PLAN
+---------------------------------------------
+Study Day 1 (2 hour(s))
+  Focus: Learn the basics and write short notes
+  Goal connection: Make progress toward to gain skill.
+
+TIPS
+- Take short breaks during longer study sessions.
+- Practise what you learn instead of only watching tutorials.
+- At the end of each week, review your progress.
+=============================================
